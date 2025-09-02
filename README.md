@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dzxhn37ae/image/upload/v1715425278/uuciewpx74unm2fpus66.gif" alt="Banner">
+  <img src="https://raw.githubusercontent.com/SachinManral/SachinManral/main/banner.jpeg" alt="Banner">
 </p>
+
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 , I'm Sachin Manral </h1>
