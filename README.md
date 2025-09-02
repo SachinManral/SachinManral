@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 , I'm Sachin Manral </h1>
-<h3 align="center">A passionate MERN-Stack Developer from India</h3>
+<!-- <h3 align="center">A passionate MERN-Stack Developer from India</h3> -->
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SachinManral" alt="SachinManral" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SachinManral" alt="SachinManral" /></a> </p>
