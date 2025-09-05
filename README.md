@@ -26,7 +26,7 @@
 
 - 🌱 I’m currently learning **Advance DSA.**
 
-- Exploring **MERN Stack** in deep.
+- 🔭 Exploring **MERN Stack** in deep.
 
 - 👨‍💻 Know more about me [https://sachinmanralweb.netlify.app/](https://sachinmanralweb.netlify.app/)
 
