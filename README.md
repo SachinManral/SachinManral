@@ -80,9 +80,10 @@
 
 <br/>
 
-<h3>💻 Tech Stack:</h3>
-<br/>
+
 <div align="center">
+<h3>💻 Tech Stack</h3>
+<br/>
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
@@ -115,3 +116,21 @@
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Buy Me a Coffee" />
   </a>
 </p>
+
+<br/>
+
+<!-- Ending Section -->
+<div align="center">
+
+  <!-- Fallout GIF -->
+  <a href="https://github.com/SachinManral">
+    <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Fallout GIF" style="max-width: 250px; height: auto;" />
+  </a>
+
+  <!-- Divider Line -->
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2" />
+<br>
+  <!-- Signature -->
+  <p><strong>⚠️ This README is uniquely designed by <a href="https://github.com/SachinManral" target="_blank">Sachin Manral</a></strong></p>
+
+</div>
