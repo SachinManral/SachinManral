@@ -19,7 +19,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 , I'm Sachin Manral </h1>
 <!-- <h3 align="center">A passionate MERN-Stack Developer from India</h3> -->
-<h4 align="left">🌟 I'm a passionate Computer Science undergraduate specializing in Artificial Intelligence & Machine Learning. Currently pursuing my B.Tech in CSE, I am dedicated to strengthening my programming skills, exploring real-world applications of AI/ML, and working on impactful coding projects. My learning journey is focused on building a strong foundation in core computer science concepts while staying curious about emerging technologies like Data Science, Cloud Computing, and Full-Stack Development.</h4>
+<h4 align="left">🌟 I’m Sachin Manral, a Computer Science student passionate about AI, full-stack development, and problem-solving. Always learning, building, and sharing through projects and open source.</h4>
 
 <div align="center">
 
@@ -46,7 +46,7 @@
 
 - 🌱 I’m currently learning **Advance DSA.**
 
-- 🔭 Exploring **MERN Stack** in deep.
+- 🔭 Exploring **React, Node.js, and Machine Learning frameworks.**
 
 - 👨‍💻 Know more about me [https://sachinmanralweb.netlify.app/](https://sachinmanralweb.netlify.app/)
 
