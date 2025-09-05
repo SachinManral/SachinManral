@@ -30,8 +30,6 @@
 
 - 👨‍💻 Know more about me [https://sachinmanralweb.netlify.app/](https://sachinmanralweb.netlify.app/)
 
-- 💬 Ask me about **React.Js, Next.Js, Node.Js etc**
-
 - 📫 How to reach me **sachinmanral2431@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yaIBkjaDAiMNdi63Pi_Lerl7PktDAlPZ/view?usp=sharing](https://drive.google.com/file/d/1yaIBkjaDAiMNdi63Pi_Lerl7PktDAlPZ/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1kegXmI-sTSokTf-QX4Ca1Py5nVJSH0w4/view?usp=drive_link](https://drive.google.com/file/d/1kegXmI-sTSokTf-QX4Ca1Py5nVJSH0w4/view?usp=drive_link)
