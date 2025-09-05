@@ -22,7 +22,7 @@
 <h4 align="left">🌟 I’m Sachin Manral, a Computer Science student passionate about AI, full-stack development, and problem-solving. Always learning, building, and sharing through projects and open source.</h4>
 
 <div align="center">
-
+<br/>
 <!-- Profile Views -->
 <a href="https://github.com/SachinManral" target="_blank">
   <img src="https://komarev.com/ghpvc/?username=SachinManral&label=Profile%20Views&color=5e81ac&style=for-the-badge&logo=github" 
@@ -129,6 +129,7 @@
 
   <!-- Divider Line -->
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2" />
+<br>
 <br>
   <!-- Signature -->
   <p><strong>⚠️ This README is uniquely designed by <a href="https://github.com/SachinManral" target="_blank">Sachin Manral</a></strong></p>
