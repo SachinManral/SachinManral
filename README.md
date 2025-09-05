@@ -105,7 +105,7 @@
 </div>
 <div align="center"> 
 </div>
-
+<br/>
 <br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SachinManral&theme=matrix" alt="SachinManral" /></a> </p>
 
