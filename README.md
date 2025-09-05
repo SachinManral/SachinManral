@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SachinManral/SachinManral/main/Banner.jpg" alt="Banner">
-</p>
+<a href="https://github.com/SachinManral/SachinManral/blob/main/fallout_grayscale%20(1).gif">
+  <img src="https://github.com/SachinManral/SachinManral/blob/main/fallout_grayscale%20(1).gif" alt="Fallout GIF" style="width:auto; height:auto"/>
+</a>
+
 
 <div align="center">
 <a href="https://www.linkedin.com/in/sachin-manral/">
@@ -18,7 +19,29 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 , I'm Sachin Manral </h1>
 <!-- <h3 align="center">A passionate MERN-Stack Developer from India</h3> -->
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SachinManral" alt="SachinManral" /> </p>
+<h4 align="left">🌟 I'm a passionate Computer Science undergraduate specializing in Artificial Intelligence & Machine Learning. Currently pursuing my B.Tech in CSE, I am dedicated to strengthening my programming skills, exploring real-world applications of AI/ML, and working on impactful coding projects. My learning journey is focused on building a strong foundation in core computer science concepts while staying curious about emerging technologies like Data Science, Cloud Computing, and Full-Stack Development.</h4>
+
+<div align="center">
+
+<!-- Profile Views -->
+<a href="https://github.com/SachinManral" target="_blank">
+  <img src="https://komarev.com/ghpvc/?username=SachinManral&label=Profile%20Views&color=5e81ac&style=for-the-badge&logo=github" 
+       alt="Profile Views Badge" />
+</a>
+
+<!-- Total Stars -->
+<a href="https://github.com/SachinManral?tab=repositories&sort=stargazers" target="_blank">
+  <img alt="Total Stars" title="Total Stars on GitHub"
+       src="https://img.shields.io/github/stars/SachinManral?style=for-the-badge&label=Stars&color=bf616a&logo=github" />
+</a>
+
+<!-- Followers -->
+<a href="https://github.com/SachinManral?tab=followers" target="_blank">
+  <img alt="Followers" title="Follow me on GitHub"
+       src="https://img.shields.io/github/followers/SachinManral?style=for-the-badge&label=Followers&color=5e81ac&logo=github" />
+</a>
+
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SachinManral&theme=matrix" alt="SachinManral" /></a> </p>
 
