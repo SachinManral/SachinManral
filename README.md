@@ -95,12 +95,14 @@
   <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" title="JavaScript" />
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" />
   <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" />
   <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" title="Supabase" />
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" />
   <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" />
   <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" title="Next.js" />
   <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=angular" alt="Angular" title="Angular" />
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" />
   <img src="https://skillicons.dev/icons?i=express" alt="Express.js" title="Express.js" />
   <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" title="PyCharm" />
@@ -108,7 +110,12 @@
   <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
   <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" />
+  <img src="https://skillicons.dev/icons?i=googlecloud" alt="Google Cloud" title="Google Cloud" />
+  <img src="https://skillicons.dev/icons?i=cloudinary" alt="Cloudinary" title="Cloudinary" />
 </div>
+
 
 
 <br/>
