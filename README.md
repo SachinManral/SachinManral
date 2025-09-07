@@ -2,6 +2,13 @@
   <img src="https://github.com/SachinManral/SachinManral/blob/main/fallout_grayscale%20(1).gif" alt="Fallout GIF" style="width:auto; height:auto"/>
 </a>
 
+<div align="center">
+  <b>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=5E81AC&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Sachin+Manral;Full-Stack+%26+AI+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG">
+  </b>
+</div>
+
+
 
 <div align="center">
 <a href="https://www.linkedin.com/in/sachin-manral/">
@@ -16,8 +23,10 @@
 </div>
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<!-- <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 , I'm Sachin Manral </h1>
+-->
+
 <!-- <h3 align="center">A passionate MERN-Stack Developer from India</h3> -->
 <h4 align="left">🌟 I’m Sachin Manral, a Computer Science student passionate about AI, full-stack development, and problem-solving. Always learning, building, and sharing through projects and open source.</h4>
 
@@ -44,13 +53,13 @@
 </div>
 <br>
 
-- 🌱 I’m currently learning **Advance DSA.**
+### 👨‍💻 About Me
+- 🎓 B.Tech CSE (AI & ML) Student | MERN & AI Enthusiast  
+- 🌱 Currently learning **Advanced DSA & ML Frameworks**  
+- 🛠 Building projects with **React, Next.js, Node.js, and Supabase**  
+- 🚀 Exploring **AI + Web Development fusion projects**  
+- 🎯 Goal: To contribute more to **Open Source & Research Projects**
 
-- 🔭 Exploring **React, Node.js, and Machine Learning frameworks.**
-
-- 👨‍💻 Know more about me [https://sachinmanralweb.netlify.app/](https://sachinmanralweb.netlify.app/)
-
-- 📫 How to reach me **sachinmanral2431@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1kegXmI-sTSokTf-QX4Ca1Py5nVJSH0w4/view?usp=drive_link](https://drive.google.com/file/d/1kegXmI-sTSokTf-QX4Ca1Py5nVJSH0w4/view?usp=drive_link)
 
@@ -66,6 +75,14 @@
   <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=SachinManral&theme=nord&hide_border=false" alt="GitHub Streak Stats"/>
 
 </div>
+
+<br>
+<br>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SachinManral&theme=nord" alt="GitHub Activity Graph" />
+</div>
+
+
 
 <br/>
 
