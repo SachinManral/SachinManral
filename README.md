@@ -81,6 +81,9 @@
 </div>
 
 <br>
+<div align="center">
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinManral&hide=HTML&langs_count=8&layout=compact&theme=nord&border_radius=10" alt="Top Languages"/>
+</div>
 <br>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SachinManral&theme=nord" alt="GitHub Activity Graph" />
