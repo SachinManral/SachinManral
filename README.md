@@ -65,7 +65,7 @@
 - 🎯 Goal: To contribute more to **Open Source & Research Projects**
 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kegXmI-sTSokTf-QX4Ca1Py5nVJSH0w4/view?usp=drive_link](https://drive.google.com/file/d/1kegXmI-sTSokTf-QX4Ca1Py5nVJSH0w4/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/11-CfpcxqXoHwv7Syc7mq27TaLJIfPkOT/view?usp=drive_link)
 
 <br>
 <h3 align="center">🌱 GitHub Status</h3>
