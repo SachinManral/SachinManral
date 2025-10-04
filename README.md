@@ -179,7 +179,9 @@
 <br>
 <br>
   <!-- Signature -->
-<a href="https://sachinmanral.com/" target="_blank" rel="noopener noreferrer">Sachin Manral</a>
+<p><strong>⚠️ This README is uniquely designed by 
+<a href="https://sachinmanral.com/" target="_blank">Sachin Manral</a></strong></p>
+
 
 
 
