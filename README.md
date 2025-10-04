@@ -179,6 +179,8 @@
 <br>
 <br>
   <!-- Signature -->
-  <p><strong>⚠️ This README is uniquely designed by <a href="https://sachinmanral.com/" target="_blank">Sachin Manral</a></strong></p>
+  <p><strong>⚠️ This README is uniquely designed by 
+<a href="https://sachinmanral.com/" target="_blank">Sachin Manral</a></strong></p>
+
 
 </div>
