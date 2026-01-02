@@ -63,9 +63,7 @@
 - 🛠 Building projects with **React, Next.js, Node.js, and Supabase**  
 - 🚀 Exploring **AI + Web Development fusion projects**  
 - 🎯 Goal: To contribute more to **Open Source & Research Projects**
-
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/11-CfpcxqXoHwv7Syc7mq27TaLJIfPkOT/view?usp=drive_link)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1tcA79lzNXdywe_nswrkLDHJbSDUrJ8A-/view?usp=drive_link)
 
 <br>
 <h3 align="center">🌱 GitHub Status</h3>
