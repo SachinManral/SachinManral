@@ -74,7 +74,7 @@
   <img width="398" src="https://github-readme-stats.vercel.app/api?username=SachinManral&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8"/> 
 
   <!-- GitHub Streak -->
-  <img width="420" src="https://nirzak-streak-stats.vercel.app/?user=SachinManral&theme=nord&hide_border=false" alt="GitHub Streak Stats"/>
+  <img width="420" src="https://nirzak-streak-stats.vercel.app?user=SachinManral&theme=nord&hide_border=false" alt="GitHub Streak Stats"/>
 
 </div>
 
