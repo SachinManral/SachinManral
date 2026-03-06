@@ -169,7 +169,7 @@
 
   <!-- Fallout GIF -->
   <a href="https://github.com/SachinManral">
-    <img src="https://github.com/JoshuaThadi/Wall-E-Desk/blob/main/Pixel-Art-2/green.gif" alt="Fallout GIF" style="max-width: 250px; height: auto;" />
+    <img src="https://github.com/SachinManral/SachinManral/blob/main/green.gif" alt="Fallout GIF" style="max-width: 250px; height: auto;" />
   </a>
 
   <!-- Divider Line -->
