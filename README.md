@@ -32,7 +32,7 @@
 -->
 
 <!-- <h3 align="center">A passionate MERN-Stack Developer from India</h3> -->
-<h4 align="left">🌟 I’m Sachin Manral, a Computer Science student passionate about AI, full-stack development, and problem-solving. Always learning, building, and sharing through projects and open source.</h4>
+<h4 align="left">🌟 I'm Sachin Manral, a Computer Science student passionate about AI, full-stack development, and problem-solving. Always learning, building, and sharing through projects and open source.</h4>
 
 <div align="center">
 <br/>
@@ -74,14 +74,29 @@
   <img width="398" src="https://github-readme-stats.vercel.app/api?username=SachinManral&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8"/> 
 
   <!-- GitHub Streak -->
-  <img width="420" src="https://nirzak-streak-stats.vercel.app?user=SachinManral&theme=nord&hide_border=false" alt="GitHub Streak Stats"/>
+  <a href="https://git.io/streak-stats">
+    <img width="420" src="https://streak-stats.demolab.com?user=SachinManral&theme=nord&short_numbers=true" alt="GitHub Streak" />
+  </a>
 
 </div>
 
 <br>
 <div align="center">
+
+  <!-- Top Languages -->
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinManral&layout=compact&langs_count=8&theme=nord&border_radius=10" alt="Top Languages"/>
+
 </div>
+
+<br>
+<div align="center">
+
+  <!-- Profile Summary Cards -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SachinManral&theme=nord_dark" alt="GitHub Stats Summary" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SachinManral&theme=nord_dark" alt="GitHub Profile Details" />
+
+</div>
+
 <br>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SachinManral&theme=nord" alt="GitHub Activity Graph" />
@@ -152,7 +167,13 @@
 </div>
 <br/>
 <br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SachinManral&theme=matrix" alt="SachinManral" /></a> </p>
+
+<!-- Trophy Section -->
+<p align="center">
+  <a href="https://gh-trophy.cdnsoft.net/?username=SachinManral&theme=oldie">
+    <img src="https://gh-trophy.cdnsoft.net/?username=SachinManral&theme=oldie" alt="SachinManral Trophies" />
+  </a>
+</p>
 
 <br>
 
