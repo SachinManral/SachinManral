@@ -70,8 +70,8 @@
 <br>
 <div align="center">
 
-  <!-- GitHub Stats -->
-  <img width="398" src="https://github-readme-stats.vercel.app/api?username=SachinManral&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8"/> 
+  <!-- GitHub Stats & Streak side by side -->
+  <img width="398" src="https://github-readme-stats.vercel.app/api?username=SachinManral&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=8"/>
 
   <!-- GitHub Streak -->
   <a href="https://git.io/streak-stats">
@@ -83,16 +83,17 @@
 <br>
 <div align="center">
 
-  <!-- Top Languages -->
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinManral&layout=compact&langs_count=8&theme=nord&border_radius=10" alt="Top Languages"/>
+  <!-- Profile Summary Stats & Productive Time (commits) side by side -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SachinManral&theme=nord_dark" alt="GitHub Stats Summary" />
+  &nbsp;
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SachinManral&theme=nord_dark&utcOffset=8" alt="Productive Time" />
 
 </div>
 
 <br>
 <div align="center">
 
-  <!-- Profile Summary Cards -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SachinManral&theme=nord_dark" alt="GitHub Stats Summary" />
+  <!-- Profile Details full width -->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SachinManral&theme=nord_dark" alt="GitHub Profile Details" />
 
 </div>
