@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="195" viewBox="0 0 300 195" role="img" aria-labelledby="title desc">
+  <title id="title">Top Languages</title>
+  <desc id="desc">Placeholder card. GitHub Actions updates this SVG daily.</desc>
+  <rect width="300" height="195" rx="8" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="299" height="194" rx="8" fill="none" stroke="#22c55e" stroke-opacity="0.25"/>
+  <text x="24" y="58" fill="#22c55e" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Top Languages</text>
+  <text x="24" y="98" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="15">Auto-generated daily.</text>
+  <text x="24" y="128" fill="#88d498" font-family="Segoe UI, Arial, sans-serif" font-size="14">Workflow output appears here.</text>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub Stats</title>
+  <desc id="desc">Placeholder card. GitHub Actions updates this SVG daily.</desc>
+  <rect width="495" height="195" rx="8" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="494" height="194" rx="8" fill="none" stroke="#22c55e" stroke-opacity="0.25"/>
+  <text x="32" y="58" fill="#22c55e" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">SachinManral's GitHub Stats</text>
+  <text x="32" y="98" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="15">This card refreshes automatically every day.</text>
+  <text x="32" y="128" fill="#88d498" font-family="Segoe UI, Arial, sans-serif" font-size="14">Run the "Update README Stats Cards" workflow to generate live stats.</text>
+</svg>
