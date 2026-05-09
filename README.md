@@ -75,19 +75,19 @@ const sachin: Developer = {
 
 <br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=SachinManral&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=ffffff&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SachinManral&theme=github_dark" height="180" alt="GitHub Stats" title="GitHub Stats" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SachinManral&layout=compact&langs_count=8&bg_color=0d1117&title_color=22c55e&text_color=ffffff&hide_border=true" height="180" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SachinManral&theme=github_dark" height="180" alt="Repos Per Language" title="Repos Per Language" />
 
 <br /><br />
 
-<img src="https://streak-stats.demolab.com?user=SachinManral&theme=github-dark-blue&hide_border=true&background=0d1117&ring=22c55e&fire=ff6c00&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=22c55e&dates=888888&stroke=22c55e" height="180" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=SachinManral&theme=github-dark-blue&hide_border=true&background=0d1117&ring=22c55e&fire=ff6c00&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=22c55e&dates=888888&stroke=22c55e" height="180" alt="GitHub Streak" title="GitHub Streak" />
 &nbsp;
-<img src="https://leetcard.jacoblin.cool/SachinManral?theme=dark&font=JetBrains+Mono&ext=activity&border=0&bg=0d1117&title_color=22c55e&text_color=ffffff" height="180" alt="LeetCode Stats" />
+<img src="https://leetcard.jacoblin.cool/SachinManral?theme=dark&font=JetBrains+Mono&ext=activity&border=0&bg=0d1117&title_color=22c55e&text_color=ffffff" height="180" alt="LeetCode Stats" title="LeetCode Stats" />
 
 <br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SachinManral&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&area_color=0f2a0f&hide_border=true&custom_title=Contribution+Activity+Graph" width="94%" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SachinManral&bg_color=0d1117&color=22c55e&line=22c55e&point=ffffff&area=true&area_color=0f2a0f&hide_border=true&custom_title=Contribution+Activity+Graph" width="94%" alt="GitHub Activity Graph" title="GitHub Activity Graph" />
 
 </div>
 
@@ -101,13 +101,7 @@ const sachin: Developer = {
 
 <br /><br />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SachinManral&theme=github_dark" height="175" alt="Repos Per Language" />
-&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SachinManral&theme=github_dark" height="175" alt="Most Commit Language" />
-
-<br /><br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SachinManral&theme=github_dark" height="175" alt="Stats Card" />
 &nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SachinManral&theme=github_dark&utcOffset=5.5" height="175" alt="Productive Time IST" />
 
@@ -131,24 +125,45 @@ const sachin: Developer = {
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css&theme=dark" alt="Python, Java, JavaScript, HTML, CSS" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" alt="Python" title="Python" />
+<img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" alt="Java" title="Java" />
+<img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" alt="JavaScript" title="JavaScript" />
+<img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" alt="HTML" title="HTML" />
+<img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" alt="CSS" title="CSS" />
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,mongodb,supabase&theme=dark" alt="Node.js, Express.js, MySQL, PostgreSQL, MongoDB, Supabase" />
+<img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" alt="Node.js" title="Node.js" />
+<img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" alt="Express.js" title="Express.js" />
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" alt="MySQL" title="MySQL" />
+<img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" alt="PostgreSQL" title="PostgreSQL" />
+<img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" alt="MongoDB" title="MongoDB" />
+<img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="48" alt="Supabase" title="Supabase" />
 
 **Frontend & Design**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,angular,figma&theme=dark" alt="React, Next.js, Tailwind CSS, Angular, Figma" />
+<img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" alt="React" title="React" />
+<img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="48" alt="Next.js" title="Next.js" />
+<img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" alt="Tailwind CSS" title="Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=angular&theme=dark" width="48" alt="Angular" title="Angular" />
+<img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" alt="Figma" title="Figma" />
 
 **AI / ML & DevOps**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,docker,aws,gcp,git,vscode,idea&theme=dark" alt="TensorFlow, PyTorch, scikit-learn, Docker, AWS, GCP, Git, VS Code, IntelliJ IDEA" />
+<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="48" alt="TensorFlow" title="TensorFlow" />
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="48" alt="PyTorch" title="PyTorch" />
+<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="48" alt="scikit-learn" title="scikit-learn" />
+<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" alt="Docker" title="Docker" />
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" alt="AWS" title="AWS" />
+<img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="48" alt="GCP" title="GCP" />
+<img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" alt="Git" title="Git" />
+<img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" alt="VS Code" title="VS Code" />
+<img src="https://skillicons.dev/icons?i=idea&theme=dark" width="48" alt="IntelliJ IDEA" title="IntelliJ IDEA" />
 
 <br />
 
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+<img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" title="Keras" />
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" title="SciPy" />
 
 </div>
 
