@@ -68,16 +68,18 @@ const sachin: Developer = {
 
 ## GitHub Analytics
 
+> These stats cards are self-hosted via GitHub Actions and refresh daily.
+
 <div align="center">
 
-![Daily Refresh](https://img.shields.io/badge/Stats-refresh%20daily-22c55e?style=flat-square&logo=githubactions&logoColor=white)
-![Theme](https://img.shields.io/badge/Theme-github%20dark-0d1117?style=flat-square&logo=github&logoColor=white)
+[![Stats Workflow](https://img.shields.io/badge/GitHub%20Actions-daily%20stats-22c55e?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/SachinManral/SachinManral/actions/workflows/grs.yml)
+[![Theme](https://img.shields.io/badge/Theme-github%20dark-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/SachinManral)
 
 <br /><br />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SachinManral&theme=github_dark" height="180" alt="GitHub Stats" title="GitHub Stats" />
+<img src="./profile/stats.svg" height="180" alt="GitHub Stats" title="GitHub Stats" />
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SachinManral&theme=github_dark" height="180" alt="Repos Per Language" title="Repos Per Language" />
+<img src="./profile/top-langs.svg" height="180" alt="Top Languages" title="Top Languages" />
 
 <br /><br />
 
