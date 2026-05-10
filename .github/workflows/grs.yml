@@ -14,17 +14,13 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
-      - name: Generate GitHub Stats Card
-        run: |
-          mkdir -p profile
-          curl -fsSL "https://github-readme-stats.vercel.app/api?username=SachinManral&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=22c55e&icon_color=22c55e&text_color=ffffff&hide_border=true&rank_icon=github" -o profile/stats.svg
-
-      - name: Generate Top Languages Card
-        run: |
-          mkdir -p profile
-          curl -fsSL "https://github-readme-stats.vercel.app/api/top-langs/?username=SachinManral&layout=compact&langs_count=8&bg_color=0d1117&title_color=22c55e&text_color=ffffff&hide_border=true" -o profile/top-langs.svg
+      - name: Generate README stats cards
+        env:
+          GH_USERNAME: SachinManral
+          GITHUB_TOKEN: ${{ github.token }}
+        run: python .github/scripts/generate_stats_cards.py
 
       - name: Verify cards are valid SVG
         run: |
