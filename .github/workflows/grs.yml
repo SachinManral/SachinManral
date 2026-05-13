@@ -1,6 +1,14 @@
 name: Update README Stats Cards
 
 on:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/grs.yml"
+      - ".github/scripts/generate_stats_cards.py"
+      - "profile/stats.svg"
+      - "profile/top-langs.svg"
   schedule:
     - cron: "0 3 * * *"
   workflow_dispatch:
