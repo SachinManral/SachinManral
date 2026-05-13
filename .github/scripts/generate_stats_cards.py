@@ -7,6 +7,7 @@ import html
 import json
 import os
 import sys
+import time
 import urllib.error
 import urllib.request
 from pathlib import Path
@@ -15,6 +16,8 @@ from pathlib import Path
 USERNAME = os.environ.get("GH_USERNAME", "SachinManral")
 TOKEN = os.environ.get("GITHUB_TOKEN")
 API_ROOT = "https://api.github.com"
+MAX_ATTEMPTS = 4
+RETRYABLE_HTTP_STATUS = {429, 500, 502, 503, 504}
 
 BG = "#0d1117"
 GREEN = "#22c55e"
@@ -22,6 +25,12 @@ TEXT = "#ffffff"
 MUTED = "#88d498"
 SUBTLE = "#8b949e"
 BORDER = "#22c55e"
+
+
+class GitHubAPIError(RuntimeError):
+    def __init__(self, message: str, retryable: bool = False) -> None:
+        super().__init__(message)
+        self.retryable = retryable
 
 
 def github_get(path: str) -> object:
@@ -36,12 +45,30 @@ def github_get(path: str) -> object:
     if TOKEN:
         request.add_header("Authorization", f"Bearer {TOKEN}")
 
-    try:
-        with urllib.request.urlopen(request, timeout=30) as response:
-            return json.loads(response.read().decode("utf-8"))
-    except urllib.error.HTTPError as exc:
-        detail = exc.read().decode("utf-8", errors="replace")
-        raise RuntimeError(f"GitHub API request failed: {path} ({exc.code}) {detail}") from exc
+    for attempt in range(1, MAX_ATTEMPTS + 1):
+        try:
+            with urllib.request.urlopen(request, timeout=30) as response:
+                return json.loads(response.read().decode("utf-8"))
+        except urllib.error.HTTPError as exc:
+            detail = exc.read().decode("utf-8", errors="replace")
+            retryable = exc.code in RETRYABLE_HTTP_STATUS
+            if retryable and attempt < MAX_ATTEMPTS:
+                time.sleep(attempt * 3)
+                continue
+            raise GitHubAPIError(
+                f"GitHub API request failed: {path} ({exc.code}) {detail}",
+                retryable=retryable,
+            ) from exc
+        except urllib.error.URLError as exc:
+            if attempt < MAX_ATTEMPTS:
+                time.sleep(attempt * 3)
+                continue
+            raise GitHubAPIError(
+                f"GitHub API request failed: {path} ({exc.reason})",
+                retryable=True,
+            ) from exc
+
+    raise GitHubAPIError(f"GitHub API request failed: {path}", retryable=True)
 
 
 def get_all_repos() -> list[dict]:
@@ -80,6 +107,10 @@ def write(path: str, content: str) -> None:
     target = Path(path)
     target.parent.mkdir(parents=True, exist_ok=True)
     target.write_text(content, encoding="utf-8")
+
+
+def existing_cards_are_available() -> bool:
+    return Path("profile/stats.svg").is_file() and Path("profile/top-langs.svg").is_file()
 
 
 def esc(value: object) -> str:
@@ -166,17 +197,24 @@ def generate_languages_card(languages: dict[str, int]) -> str:
 
 
 def main() -> int:
-    user = github_get(f"/users/{USERNAME}")
-    if not isinstance(user, dict):
-        raise RuntimeError("Unexpected GitHub API response while reading user")
+    try:
+        user = github_get(f"/users/{USERNAME}")
+        if not isinstance(user, dict):
+            raise RuntimeError("Unexpected GitHub API response while reading user")
 
-    repos = get_all_repos()
-    languages = get_languages(repos)
+        repos = get_all_repos()
+        languages = get_languages(repos)
 
-    write("profile/stats.svg", generate_stats_card(user, repos))
-    write("profile/top-langs.svg", generate_languages_card(languages))
-    print(f"Generated stats cards for {USERNAME}")
-    return 0
+        write("profile/stats.svg", generate_stats_card(user, repos))
+        write("profile/top-langs.svg", generate_languages_card(languages))
+        print(f"Generated stats cards for {USERNAME}")
+        return 0
+    except GitHubAPIError as error:
+        if error.retryable and existing_cards_are_available():
+            print(f"::warning::{error}")
+            print("Keeping existing stats cards because GitHub returned a temporary error.")
+            return 0
+        raise
 
 
 if __name__ == "__main__":
