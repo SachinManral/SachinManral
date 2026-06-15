@@ -99,13 +99,19 @@ const sachin: Developer = {
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SachinManral&theme=github_dark" width="94%" alt="Profile Summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SachinManral&theme=github_dark" width="94%" alt="Profile Summary"/>
 
-<br /><br />
+<br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SachinManral&theme=github_dark" height="175" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SachinManral&theme=github_dark" height="175" alt="Repos Per Language"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SachinManral&theme=github_dark&utcOffset=5.5" height="175" alt="Productive Time IST" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SachinManral&theme=github_dark" height="175" alt="Most Commit Language"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SachinManral&theme=github_dark" height="175" alt="Stats Card"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=simplysandeepp&theme=github_dark&utcOffset=5.5" height="175" alt="Productive Time IST"/>
 
 </div>
 
