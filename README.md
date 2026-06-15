@@ -115,7 +115,7 @@ const sachin: Developer = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SachinManral&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" width="94%" alt="GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=SachinManral&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" width="94%" alt="GitHub Trophies" />
 
 </div>
 
