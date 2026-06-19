@@ -14,7 +14,7 @@
   <rect x="24" y="103" width="252" height="7" rx="3.5" fill="#161b22"/>
   <rect x="24" y="103" width="31" height="7" rx="3.5" fill="#38bdf8"/>
   <text x="24" y="120" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Python</text>
-  <text x="276" y="120" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="12" text-anchor="end">14.3%</text>
+  <text x="276" y="120" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="12" text-anchor="end">14.2%</text>
   <rect x="24" y="127" width="252" height="7" rx="3.5" fill="#161b22"/>
   <rect x="24" y="127" width="29" height="7" rx="3.5" fill="#f97316"/>
   <text x="24" y="144" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="13" font-weight="600">Jupyter Notebook</text>
