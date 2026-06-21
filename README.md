@@ -44,18 +44,19 @@ const sachin: Developer = {
 
   currentFocus: [
     "Advanced DSA & ML Frameworks",
-    "React, Next.js, Node.js & Supabase projects",
+    "RAG Pipelines & AI Agents",
+    "Deep Learning — GANs, Transformers, LLMs & AI Agents",
     "AI + Web Development fusion",
     "Open Source & Research contributions",
   ],
 
   techStack: {
     languages: ["Python", "Java", "JavaScript"],
-    backend: ["Node.js", "Express.js"],
-    databases: ["MySQL", "PostgreSQL", "MongoDB", "Supabase"],
-    frontend: ["React", "Next.js", "Tailwind CSS", "Angular", "HTML", "CSS"],
-    aiml: ["TensorFlow", "PyTorch", "Keras", "scikit-learn", "SciPy"],
-    devops: ["Docker", "AWS", "GCP", "Git", "VS Code", "IntelliJ IDEA"],
+    backend: ["Node.js", "Express.js", "FastAPI"],
+    databases: ["MySQL", "PostgreSQL", "MongoDB", "Firebase"],
+    frontend: ["React", "Next.js", "Tailwind CSS", "HTML", "CSS"],
+    aiml: ["TensorFlow", "PyTorch", "Keras", "scikit-learn", "Langchain"],
+    devops: ["Docker", "AWS", "GCP", "Git", "VS Code"],
   },
 
   currentlyLearning: ["Advanced DSA", "ML Frameworks", "System Design"],
