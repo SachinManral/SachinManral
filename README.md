@@ -31,7 +31,7 @@
     </td>
     <td width="50%">
       <strong>What I am improving</strong><br />
-      Advanced DSA, ML frameworks, system design, and production-ready MERN / Next.js projects.
+      Advanced DSA, ML frameworks, system design, and RAG Pipeline and AI agents.
     </td>
   </tr>
 </table>
